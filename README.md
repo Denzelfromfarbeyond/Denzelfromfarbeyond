@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Denzelfromfarbeyond
 - 👀 I’m interested in CyberSecurity, DataScience, Machine Learning, Artificial Intelligence, Robotics, Football and Music
-- 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on 
-- 📫 You Can reach me Via mail
+- 🌱 I’m currently learning Ethical hacking on all platforms for all devices and mediums
+- 💞️ I’m looking to collaborate on priojhects relating to my interests and more
+- 📫 You Can reach me Via mail at daenzelfromfarbeyond@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
