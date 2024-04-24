@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Denzelfromfarbeyond
+- 👋 Hi, I’m @Oluwaaferanmi
 - 👀 I’m interested in CyberSecurity, DataScience, Machine Learning, Artificial Intelligence, Robotics, Football and Music
 - 🌱 I’m currently learning Ethical hacking on all platforms for all devices and mediums
 - 💞️ I’m looking to collaborate on projects relating to my interests and more
